@@ -1,6 +1,15 @@
-### Hi there 👋
+### What's up!
+
+I'm Germán Ruiz (@gruizmudarra):
+- 🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
+- :car: Bsc. thesis on Autonomous Driving in Intersections and Roundabouts (code available [here](https://github.com/gruizmudarra/adir)).
+- 🤔 I'm interested in robotics, AI, electronics and the maker movement.
+- :books: Python for web-scraping and scripting  and  C/C++ for everything else.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gruizmudarra/) or [email](mailto:germanruizmudarra+G@gmail.com) 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gruizmudarra&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gruizmudarra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gruizmudarra/gruizmudarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
