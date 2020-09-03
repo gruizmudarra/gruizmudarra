@@ -6,7 +6,7 @@ I'm Germán Ruiz (@gruizmudarra):
 - 🤔 I'm interested in robotics, AI, electronics and the maker movement.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gruizmudarra/) or [email](mailto:germanruizmudarra+G@gmail.com) 
 
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat-square&logo=Windows&logoColor=white&color=lightgrey) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=orange) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=lightblue)
+![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat-square&logo=Windows&logoColor=white&color=lightgrey) ![](https://img.shields.io/badge/OS-Ubuntu_16.04-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=orange) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=lightblue)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gruizmudarra&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gruizmudarra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
