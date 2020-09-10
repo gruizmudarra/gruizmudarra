@@ -1,4 +1,4 @@
-### What's up! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### What's up! <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
 
 I'm Germán Ruiz (@gruizmudarra):
 - 👨🏻‍🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
