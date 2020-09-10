@@ -1,4 +1,8 @@
-### What's up! <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
+<img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
+
+<img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
+
+<img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
 
 I'm Germán Ruiz (@gruizmudarra):
 - 👨🏻‍🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
