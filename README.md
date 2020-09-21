@@ -1,7 +1,3 @@
-<img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
-<img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
-<img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/source.gif" width="30px">
-
 I'm Germán Ruiz (@gruizmudarra):
 - 👨🏻‍🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
 - :car: Bsc. thesis on Autonomous Driving in Intersections and Roundabouts (code available [here](https://github.com/gruizmudarra/adir)).
