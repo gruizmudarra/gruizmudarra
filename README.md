@@ -1,6 +1,6 @@
 I'm Germán Ruiz (@gruizmudarra):
 - 👨🏻‍🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
-- :car: Bsc. thesis on Autonomous Driving in Intersections and Roundabouts (code available [here](https://github.com/gruizmudarra/adir)).
+<!-- :car: Bsc. thesis on Autonomous Driving in Intersections and Roundabouts (code available [here](https://github.com/gruizmudarra/adir)).-->
 - 🤔 I'm interested in robotics, AI, electronics and the maker movement.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gruizmudarra/) or [email](mailto:germanruizmudarra+G@gmail.com) 
 
