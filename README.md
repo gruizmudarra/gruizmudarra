@@ -1,11 +1,24 @@
 I'm Germán Ruiz (@gruizmudarra):
 - 👨🏻‍🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
-- 🤔 I'm interested in robotics, AI, electronics and the maker movement.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gruizmudarra/) or [email](mailto:germanruizmudarra+G@gmail.com)
+- 👨🏻‍🎓 Msc. in Mechatronics Engineering.
+- 🤔 I'm interested in IoT, electronics, robotics, AI and making stuff.
 
 <!-- :car: Bsc. thesis on Autonomous Driving in Intersections and Roundabouts (code available [here](https://github.com/gruizmudarra/adir)).-->
 
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat-square&logo=Windows&logoColor=white&color=lightgrey) ![](https://img.shields.io/badge/OS-Ubuntu_18.04-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=orange) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=lightblue)
+## 📫 How to reach me
+[LinkedIn](https://www.linkedin.com/in/gruizmudarra/) or [email](mailto:germanruizmudarra+G@gmail.com)
+
+## Skills
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## PC Specs
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
+![](https://img.shields.io/badge/Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gruizmudarra&hide=prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gruizmudarra&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
